@@ -1,0 +1,22 @@
+
+Execution steps:
+
+python Cleanup.py
+output file:CleanedData.csv
+
+
+sh removerheader.sh
+outpu files:
+CleanedData_noheader.csv
+POIlist_noheader.csv
+
+
+python Label.py
+
+outputfile:
+Labeloutput.csv
+
+
+python Analysis.py
+
+

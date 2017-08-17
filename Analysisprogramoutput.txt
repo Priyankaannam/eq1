@@ -1,0 +1,15 @@
+POI1 values are
+>>> printvalues (Calulated_poi1_values[0],Calulated_poi1_values[1],Calulated_poi1_values[2],Calulated_poi1_values[4])
+POI MEAN:300.80914868234527,POI STDDEV 388.39527300024434,POI RADIUS:11535.44092941355, DENSITY:2.0928598413146628e-05
+>>>
+>
+>>> print  ("POI3 values are")
+POI3 values are
+>>> printvalues (Calulated_poi3_values[0],Calulated_poi3_values[1],Calulated_poi3_values[2],Calulated_poi3_values[4])
+POI MEAN:451.77267365751726,POI STDDEV 223.72332199300402,POI RADIUS:1475.0438661133378, DENSITY:0.0012874279327936484
+>>>
+>>> Calulated_poi4_values=calc (poi4list)
+>>> print  ("POI4 values are")
+POI4 values are
+>>> printvalues (Calulated_poi4_values[0],Calulated_poi4_values[1],Calulated_poi4_values[2],Calulated_poi4_values[4])
+POI MEAN:515.1588411609351,POI STDDEV 1507.3630173786325,POI RADIUS:9352.507811382198, DENSITY:1.5357001230406255e-06
